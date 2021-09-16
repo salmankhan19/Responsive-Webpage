@@ -1,0 +1,45 @@
+@media only screen and (max-width: 480px){
+	#menu{
+	display: none;
+	}
+	.bg{
+	height: 400px;
+	}
+	.con{
+    padding: 40px 10px 40px 10px;
+    letter-spacing: 2px;
+	}
+	.con h1{
+	font-size: 25px;
+	margin: 0px;
+	letter-spacing: 6px;
+
+	}
+	.slide{
+		display: flex;
+		flex-direction: column;
+	}
+	.picture{
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.picture img{
+		height: 200px;
+		width: 200px;
+	}
+	.mid{
+		display: flex;
+		flex-direction: column;
+		height: 690px;
+	}
+	.search{
+		width: 184px;
+	}
+	input{
+		width: 228px ;
+	}
+	.sub-btn{
+		margin-left: 48px;
+	}
+
+}
